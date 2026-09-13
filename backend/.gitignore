@@ -1,0 +1,7 @@
+backend/target/
+*.class
+.idea/
+*.iml
+build/
+.dart_tool/
+.flutter-plugins*
